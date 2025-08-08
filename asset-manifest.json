@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Grohair-Dindigul/static/css/main.7df4080a.css",
-    "main.js": "/Grohair-Dindigul/static/js/main.791f9d3e.js",
+    "main.js": "/Grohair-Dindigul/static/js/main.9abc469b.js",
     "static/media/s1.png": "/Grohair-Dindigul/static/media/s1.b67f4173ea9ca14b5c65.png",
     "static/media/s2.png": "/Grohair-Dindigul/static/media/s2.a4baaaa15da79759b137.png",
     "static/media/1.png": "/Grohair-Dindigul/static/media/1.2543d7db83270a19bcf3.png",
@@ -20,10 +20,10 @@
     "static/media/logo1.png": "/Grohair-Dindigul/static/media/logo1.762a9ce754782b5ace42.png",
     "index.html": "/Grohair-Dindigul/index.html",
     "main.7df4080a.css.map": "/Grohair-Dindigul/static/css/main.7df4080a.css.map",
-    "main.791f9d3e.js.map": "/Grohair-Dindigul/static/js/main.791f9d3e.js.map"
+    "main.9abc469b.js.map": "/Grohair-Dindigul/static/js/main.9abc469b.js.map"
   },
   "entrypoints": [
     "static/css/main.7df4080a.css",
-    "static/js/main.791f9d3e.js"
+    "static/js/main.9abc469b.js"
   ]
 }
